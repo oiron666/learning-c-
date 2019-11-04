@@ -12,14 +12,19 @@ namespace ConsoleApp4
         {
             try
             {
-                string number = "1234";
-                byte b = Convert.ToByte(number);
-              
-                Console.WriteLine(b);
+                string strNumber = "1234";
+                int number = Convert.ToInt32(strNumber);
+                byte byteNumber = (byte)number;
+                byte strToByteNumber = Convert.ToByte(strNumber);
+                string booleanString = 'false';
+                bool falseCheck = Convert.ToBoolean(booleanString);
+                Console.WriteLine(number + byteNumber + strToByteNumber);
+                Console.WriteLine(falseCheck);
+
             }
             catch (Exception)
             {
-                Console.WriteLine("The nummber could not nonvert to a byte");
+                Console.WriteLine("The nummber could not be converted to a byte");
             }
 
 
