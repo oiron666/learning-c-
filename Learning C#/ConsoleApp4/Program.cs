@@ -3,23 +3,43 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ConsoleApp4.Math;
 
 namespace ConsoleApp4
 {
-    class OperatorExercise
+
+
+    class Program
     {
         static void Main(string[] args)
+        {
+            var marcin = new Person();
+            marcin.FirstName = "Marcel";
+            marcin.LastName = "Bieniek";
+            marcin.Introduce();
+
+
+            Calculator calculator = new Calculator();
+            var result = calculator.Add(1, 4);
+            Console.WriteLine(result);
+
+            Console.ReadKey();
+        }
+    }
+    class OperatorExercise
+    {
+        static void Main2(string[] args)
         {
             //random stuff
             var num1 = 3;
             var num2 = 8;
             
             /*
-             *random stuff too
+             *random stuff too 
              */
             Console.WriteLine(num2 / num1);
             Console.WriteLine((float)num2 / (float)num1);
-            Console.WriteLine(!((float)num1 == num1 && num1 > num2));
+            Console.WriteLine(!((float)num1 == num2 && num1 > num2));
             Console.ReadKey();
         }
 
@@ -49,6 +69,8 @@ namespace ConsoleApp4
 
         }
     }
+
+ 
 
 
 }

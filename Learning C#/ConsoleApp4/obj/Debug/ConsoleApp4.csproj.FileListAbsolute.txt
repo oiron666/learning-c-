@@ -1,14 +1,21 @@
-C:\Users\marcin.bieniecki\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-C:\Users\marcin.bieniecki\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-C:\Users\marcin.bieniecki\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-C:\Users\marcin.bieniecki\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
-C:\Users\marcin.bieniecki\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
-C:\Users\marcin.bieniecki\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-C:\Users\marcin.bieniecki\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
-C:\Users\marcin.bieniecki\Desktop\c#\Learning C#\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
-C:\Users\marcin.bieniecki\Desktop\c#\Learning C#\ConsoleApp4\bin\Debug\ConsoleApp4.exe
-C:\Users\marcin.bieniecki\Desktop\c#\Learning C#\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
-C:\Users\marcin.bieniecki\Desktop\c#\Learning C#\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
-C:\Users\marcin.bieniecki\Desktop\c#\Learning C#\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
-C:\Users\marcin.bieniecki\Desktop\c#\Learning C#\ConsoleApp4\obj\Debug\ConsoleApp4.exe
-C:\Users\marcin.bieniecki\Desktop\c#\Learning C#\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:/Users/marcin.bieniecki/source/repos/ConsoleApp4/ConsoleApp4/bin/Debug/ConsoleApp4.exe.config
+C:/Users/marcin.bieniecki/source/repos/ConsoleApp4/ConsoleApp4/bin/Debug/ConsoleApp4.exe
+C:/Users/marcin.bieniecki/source/repos/ConsoleApp4/ConsoleApp4/bin/Debug/ConsoleApp4.pdb
+C:/Users/marcin.bieniecki/source/repos/ConsoleApp4/ConsoleApp4/obj/Debug/ConsoleApp4.csprojAssemblyReference.cache
+C:/Users/marcin.bieniecki/source/repos/ConsoleApp4/ConsoleApp4/obj/Debug/ConsoleApp4.csproj.CoreCompileInputs.cache
+C:/Users/marcin.bieniecki/source/repos/ConsoleApp4/ConsoleApp4/obj/Debug/ConsoleApp4.exe
+C:/Users/marcin.bieniecki/source/repos/ConsoleApp4/ConsoleApp4/obj/Debug/ConsoleApp4.pdb
+C:/Users/marcin.bieniecki/Desktop/c#/Learning C#/ConsoleApp4/bin/Debug/ConsoleApp4.exe.config
+C:/Users/marcin.bieniecki/Desktop/c#/Learning C#/ConsoleApp4/bin/Debug/ConsoleApp4.exe
+C:/Users/marcin.bieniecki/Desktop/c#/Learning C#/ConsoleApp4/bin/Debug/ConsoleApp4.pdb
+C:/Users/marcin.bieniecki/Desktop/c#/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.csprojAssemblyReference.cache
+C:/Users/marcin.bieniecki/Desktop/c#/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.csproj.CoreCompileInputs.cache
+C:/Users/marcin.bieniecki/Desktop/c#/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.exe
+C:/Users/marcin.bieniecki/Desktop/c#/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.pdb
+/Users/oiron/Documents/projects/learning-c-/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.csprojAssemblyReference.cache
+/Users/oiron/Documents/projects/learning-c-/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.csproj.CoreCompileInputs.cache
+/Users/oiron/Documents/projects/learning-c-/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.exe
+/Users/oiron/Documents/projects/learning-c-/Learning C#/ConsoleApp4/obj/Debug/ConsoleApp4.pdb
+/Users/oiron/Documents/projects/learning-c-/Learning C#/ConsoleApp4/bin/Debug/ConsoleApp4.exe.config
+/Users/oiron/Documents/projects/learning-c-/Learning C#/ConsoleApp4/bin/Debug/ConsoleApp4.exe
+/Users/oiron/Documents/projects/learning-c-/Learning C#/ConsoleApp4/bin/Debug/ConsoleApp4.pdb
