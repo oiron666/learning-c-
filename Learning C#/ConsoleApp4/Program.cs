@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ConsoleApp4.Math;
 
+
 namespace ConsoleApp4
 {
 
@@ -24,6 +25,39 @@ namespace ConsoleApp4
             Console.WriteLine(result);
 
             Console.ReadKey();
+
+            var stringOperations = new StringExercise();
+
+            var express = ShippingMethod.Express;
+
+            var expressId = 3;
+            Console.WriteLine((ShippingMethod)expressId);
+
+            Console.WriteLine((int)express);
+            Console.WriteLine(express.ToString());
+
+            var expressName = "Express";
+            var shipping = (ShippingMethod)Enum.Parse(typeof(ShippingMethod), expressName);
+
+            var valueType = new ValueType();
+
+            var number = 1;
+            Increment(number);
+
+            var alak = new Person() {Age = 25};
+            MakeOlder(alak);
+            Console.WriteLine(alak.Age);
+
+        }
+
+        public static void Increment(int number)
+        {
+            number += 10;
+        }
+
+        public static void MakeOlder(Person person)
+        {
+            person.Age += 10;
         }
     }
     class OperatorExercise
