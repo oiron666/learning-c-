@@ -51,6 +51,8 @@
     <Compile Include="StringExercise.cs" />
     <Compile Include="ShippingMethod.cs" />
     <Compile Include="ValueType.cs" />
+    <Compile Include="IfExercise.cs" />
+    <Compile Include="Seasons.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
